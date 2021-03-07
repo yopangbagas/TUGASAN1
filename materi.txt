@@ -1,0 +1,14 @@
+menu tampilan:(resource) 
+1. icon
+2. string,login, user, password,ok
+3. gambar
+drwable, digunakan untuk menyimpan gambar.( catatan nama file harus dengan huruf kecil semua
+mipmap, digunakan untuk menyimpan icon
+values, untuk menyimpan kata kata
+membuat tampilan berada di layout
+
+
+langkah langkah aplikasi android
+1. persiapkan semua resource
+2. membuat interface dengan menggunakan resource
+3. fungsionalitas 
